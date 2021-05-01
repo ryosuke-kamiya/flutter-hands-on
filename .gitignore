@@ -38,3 +38,5 @@ lib/generated_plugin_registrant.dart
 
 # Custom
 .env
+
+.last_build_id
